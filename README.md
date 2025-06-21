@@ -44,10 +44,3 @@ This project integrates Swagger UI for easy API exploration and testing.
 ├── pom.xml → Maven build file
 ├── README.md
 ```
-
-# 🚀 How to Run
-## Clone the repository
-git clone https://github.com/congtoan837/E-commerce_API_Rework.git cd E-commerce_API_Rework
-
-## Run with Maven Wrapper
-./mvnw spring-boot:run Make sure to configure application.properties or application.yml with your database and JWT settings.
